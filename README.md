@@ -3,3 +3,4 @@ This is a Matlab based fixed point neural network design toolbox with layers and
 
 # MATLAB Toolbox
 The Matlab toolbox is available in the master branch
+Addtional Implementation is presented in the Fixed_Point_Implementation_Details.pdf
