@@ -1,4 +1,4 @@
-#codes in Master branch
+# codes in Master branch
 
 # FixedPointMLToolbox_MATLAB
 This is a Matlab based fixed point neural network design toolbox with layers and classes. <br /> 
